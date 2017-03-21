@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					B17C21661E8136C50066CA8E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 9738N9JH77;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -270,6 +271,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9738N9JH77;
 				INFOPLIST_FILE = "Verbat-Test-Grigo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.GM.Verbat-Test-Grigo";
@@ -281,6 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9738N9JH77;
 				INFOPLIST_FILE = "Verbat-Test-Grigo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.GM.Verbat-Test-Grigo";
